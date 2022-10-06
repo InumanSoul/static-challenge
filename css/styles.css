@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+  color: #272D4E;
+}
+
+a{
+  color: #299EF3;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.navbar .nav-link {
+  color: #272D4E;
+}
+
+.navbar-brand img{
+  height: 1.5rem;
+  width: auto;
+  margin-right: 3rem;
+}
+
+.navbar-toggler {
+  border: 0;
+  padding: 0;
+}
+
+.navbar-toggle-icon{
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.bg-custom{
+  background: linear-gradient(180deg, rgba(229,239,255,1) 0%, rgba(229,239,255,1) 26%, rgba(229,239,255,0) 100%);
+}
+
+.hero {
+  padding: 5rem 0;
+}
+
+.hero .display-1{
+  color: #272D4E;
+}
+
+.display-1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  font-size: 3.984rem;
+}
+
+.features{
+  margin-top: 5rem;
+  margin-bottom: 15rem;
+}
+
+.feat-title{
+  color: unset;
+  font-size: 2.578rem;
+}
+
+.benefits{
+  padding: 3.75rem 0;
+  border-bottom: 0.75px solid #9A7DFF;
+}
+
+.benefits h5 {
+  font-weight: 400;
+}
+
+.footer-icon {
+  width: 1.564rem;
+  height: 1.564rem;
+  margin-right: 0.75rem;
+}
+
+footer {
+  padding-bottom: 5rem;
+}
+
+footer .nav a{
+  color: #FFF;
+  padding-left: 0;
+}
+
+footer .nav a:hover{
+  color: rgb(204, 204, 204);
+}
+
+footer h5 {
+  font-weight: 600;
+}
